@@ -11,7 +11,7 @@
         "steps": [
           {
             "result": {
-              "duration": 3996100,
+              "duration": 2999700,
               "status": "passed"
             },
             "line": 3,
@@ -24,7 +24,7 @@
         ]
       },
       {
-        "start_timestamp": "2025-12-07T01:25:44.551Z",
+        "start_timestamp": "2025-12-07T01:31:11.436Z",
         "line": 5,
         "name": "Determinant",
         "description": "",
@@ -34,7 +34,7 @@
         "steps": [
           {
             "result": {
-              "duration": 7998300,
+              "duration": 6334900,
               "status": "passed"
             },
             "line": 6,
@@ -76,7 +76,7 @@
           },
           {
             "result": {
-              "duration": 2999900,
+              "duration": 2004600,
               "status": "passed"
             },
             "line": 11,
@@ -115,7 +115,7 @@
         ]
       },
       {
-        "start_timestamp": "2025-12-07T01:25:44.686Z",
+        "start_timestamp": "2025-12-07T01:31:11.548Z",
         "line": 14,
         "name": "Transpose",
         "description": "",
@@ -125,6 +125,7 @@
         "steps": [
           {
             "result": {
+              "duration": 999600,
               "status": "passed"
             },
             "line": 15,
